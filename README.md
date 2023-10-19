@@ -1,3 +1,3 @@
 # Manual
 
-> author : DragonZZ
+> author : Dragonzz
